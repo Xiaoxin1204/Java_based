@@ -17,7 +17,7 @@ public class demo {
         System.out.println();*/
      /*   file.renameTo(new File("a.txt"));
         System.out.println(file.exists());*/
-        File file = new File("D:\\视频教程\\传智健康项目（13天）");
+        File file = new File("C:\\Users\\xiaoxin\\Desktop\\尚硅谷面试技巧及就业攻略");
         d(file);
 
     }
